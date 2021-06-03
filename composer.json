@@ -1,5 +1,5 @@
 {
-    "name": "yii2tech/balance",
+    "name": "blackcat636/balance",
     "description": "Provides support for Balance accounting system based on debit and credit principle",
     "keywords": ["yii2", "balance", "accounting", "bookkeeping", "debit", "credit"],
     "type": "yii2-extension",
